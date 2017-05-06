@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BasicCalc</string>
+    <string name="n_0">0</string>
+    <string name="n_1">1</string>
+    <string name="n_2">2</string>
+    <string name="n_3">3</string>
+    <string name="n_4">4</string>
+    <string name="n_5">5</string>
+    <string name="n_6">6</string>
+    <string name="n_7">7</string>
+    <string name="n_8">8</string>
+    <string name="n_9">9</string>
+    <string name="n_ans">ANS</string>
+    <string name="sym_period">.</string>
+    <string name="sym_comma">,</string>
+    <string name="op_open_paren">(</string>
+    <string name="op_close_paren">)</string>
+    <string name="op_equal">=</string>
+    <string name="op_add">+</string>
+    <string name="op_sub">-</string>
+    <string name="op_multiply">x</string>
+    <string name="op_divide">/</string>
+    <string name="op_sqrt">√(</string>
+    <string name="op_tenPow">E</string>
+    <string name="op_toPower">^</string>
+    <string name="edit_del">DEL</string>
+    <string name="edit_clr">CLR</string>
+    <string name="error_message">ERROR</string>
+</resources>
