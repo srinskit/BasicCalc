@@ -1,1 +1,2 @@
-# Basic Calculator for android (Highly unstable)
+# Basic Calc
+<i>Highly Unstable</i>
